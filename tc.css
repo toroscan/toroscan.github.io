@@ -1,0 +1,21 @@
+h1 {FONT-WEIGHT: bold; FONT-SIZE: 20pt; FONT-FAMILY:Arial, Helvetica, sans-serif}
+h2 {FONT-WEIGHT: normal; FONT-SIZE: 14pt; FONT-FAMILY:Arial, Helvetica, sans-serif}
+h3, h4, h5 {FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY:Arial, Helvetica, sans-serif}
+h6 {FONT-WEIGHT: normal; FONT-SIZE: 7pt; FONT-FAMILY:Arial, Helvetica,  sans-serif}
+a {FONT-SIZE: 11pt; FONT-FAMILY:Arial, Helvetica,  sans-serif}
+SMALL {FONT-SIZE: 10pt; FONT-FAMILY:Arial, Helvetica,  sans-serif; TEXT-DECORATION: none}
+a:link {TEXT-DECORATION: none; FONT-WEIGHT: normal; COLOR: #3333CC; BACKGROUND-COLOR: #FFFFFF}
+a:visited {TEXT-DECORATION: none; FONT-WEIGHT: normal; COLOR: #3333CC; BACKGROUND-COLOR: #FFFFFF}
+a:active {FONT-WEIGHT: normal; COLOR: #3333CC; BACKGROUND-COLOR: #FFFFFF}
+a:hover {TEXT-DECORATION: underline; FONT-WEIGHT: normal; COLOR: #3333CC; BACKGROUND-COLOR: #FFFFFF}
+BODY, P {BACKGROUND-COLOR: #FFFFFF; BACKGROUND-IMAGE: none; COLOR: #000000; FONT-SIZE: 11pt; FONT-FAMILY:Arial, Helvetica,  sans-serif}
+LI, TR, TH, TD, FONT, SELECT, TEXTAREA, OPTION, FORM, INPUT {FONT-SIZE: 11pt; FONT-FAMILY:Arial, Helvetica,  sans-serif}
+HR {COLOR: #000000; BACKGROUND-COLOR: #FFFFFF}
+.toplink:hover {FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #000000; BACKGROUND-COLOR: #FFFFFF; FONT-FAMILY:Arial, Helvetica, sans-serif}
+.toplink:link {FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #000000; BACKGROUND-COLOR: #FFFFFF; FONT-FAMILY:Arial, Helvetica, sans-serif}
+.toplink:visited {FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #000000; BACKGROUND-COLOR: #FFFFFF; FONT-FAMILY:Arial, Helvetica, sans-serif}
+.toplink:active {FONT-SIZE: 10pt; FONT-WEIGHT: bold; COLOR: #000000; BACKGROUND-COLOR: #FFFFFF; FONT-FAMILY:Arial, Helvetica, sans-serif}
+.bottomlink:hover {FONT-SIZE: 8pt; FONT-FAMILY:Arial, Helvetica,  sans-serif; TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #000000; BACKGROUND-COLOR: #FFFFFF}
+.bottomlink:link {FONT-SIZE: 8pt; FONT-FAMILY:Arial, Helvetica,  sans-serif; TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #000000; BACKGROUND-COLOR: #FFFFFF}
+.bottomlink:visited {FONT-SIZE: 8pt; FONT-FAMILY:Arial, Helvetica,  sans-serif; TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #000000; BACKGROUND-COLOR: #FFFFFF}
+.bottomlink:active {FONT-SIZE: 8pt; FONT-FAMILY:Arial, Helvetica,  sans-serif; FONT-WEIGHT: bold; COLOR: #000000; BACKGROUND-COLOR: #FFFFFF}
